@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developmentand application development.
 - 🌱 I’m currently learning software engineering, AWS Solutions Architect, Dart programming language
 - 💞️ I’m looking to collaborate on any project that best fit my capabilities.
-- 📫 How to reach me zvizhinjijonathan@icloud.com, +263789927980
+- 📫 How to reach me +263789927980
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:im a developer fanatic.
 
